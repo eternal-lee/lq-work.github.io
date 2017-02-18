@@ -1,2 +1,2 @@
 <h1>lq-work.github.io</h1>
-<p>這是我的博客主頁請指教</p>
+<p>這是<a href="http://lq-work.github.io/" style="font-size:22px;">我的博客</a>主頁請指教</p>
